@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>moja wizytuwka</title>
+     </head>
+     <body style="background-color: rgba(22, 219, 177, 0.795);">
+         <center>
+         <h1>Moje zainteresowania - Adam 🍆Kędzierski</h1>
+     </body>
+     <body>
+         <h2>Jestem Informatykiem 🧀</h2>
+             <span style="padding: 2px; border: solid 1px rgb(27, 189, 41)">Jestem uczniem wspaniałej szkoły ZS Mogilno🤥</span>
+     </body>
+     <body>
+         <h3>Lubie gotować</h3>
+             <span style="padding: 2px; border: dashed 1px rgb(247, 12, 12)">na przykład wode</span> </br>
+     </body>
+     <body>
+     <img src="dzban.jpg" width=250 height=150></br>
+     </body>
+     </html>
